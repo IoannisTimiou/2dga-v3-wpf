@@ -1,0 +1,52 @@
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\2dga v3 wpf.exe.config
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\2dga v3 wpf.exe
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\2dga v3 wpf.pdb
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\AForge.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\AForge.Genetic.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\AForge.Math.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\HelixToolkit.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\AForge.xml
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\AForge.Genetic.xml
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\AForge.Math.xml
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\HelixToolkit.xml
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf_MarkupCompile.cache
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf_MarkupCompile.lref
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\MainWindow.baml
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.g.resources
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\_2dga_v3_wpf.Properties.Resources.resources
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.csproj.CopyComplete
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.exe
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.pdb
+C:\Users\Dell\source\repos\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\2dga v3 wpf.exe.config
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\2dga v3 wpf.exe
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\2dga v3 wpf.pdb
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\AForge.dll
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\AForge.Genetic.dll
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\AForge.Math.dll
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\HelixToolkit.dll
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\AForge.xml
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\AForge.Genetic.xml
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\AForge.Math.xml
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\HelixToolkit.xml
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf_MarkupCompile.cache
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf_MarkupCompile.lref
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.g.resources
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\_2dga_v3_wpf.Properties.Resources.resources
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.csproj.CopyComplete
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.exe
+C:\Users\user\Desktop\Work + Academic\MSc Project Container Loading App\2dga v3 wpf\2dga v3 wpf\obj\Debug\2dga v3 wpf.pdb

@@ -1,0 +1,24 @@
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\UnitTest2.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\UnitTest2.pdb
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\2dga v3 wpf.exe
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\AForge.Genetic.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\AForge.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\AForge.Math.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\2dga v3 wpf.pdb
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\2dga v3 wpf.exe.config
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\AForge.Genetic.xml
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\AForge.xml
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\bin\Debug\AForge.Math.xml
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\obj\Debug\UnitTest2.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\obj\Debug\UnitTest2.csproj.CopyComplete
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\obj\Debug\UnitTest2.dll
+C:\Users\Dell\source\repos\2dga v3 wpf\UnitTest2\obj\Debug\UnitTest2.pdb

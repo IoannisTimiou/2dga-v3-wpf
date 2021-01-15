@@ -1,0 +1,70 @@
+﻿<Window x:Class="_2dga_v3_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:helix="http://helix-toolkit.org/wpf"
+        xmlns:local="clr-namespace:_2dga_v3_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="774.123" Width="1410.929">
+    <Border Padding="10">
+        <StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Enter the population size (>=5)" Height="22" VerticalAlignment="Top"/>
+                <TextBox Grid.Column="1" x:Name="PopSize" Margin="0, 0, 10, 0" Padding="2"/>
+                <Button Grid.Column="2" x:Name="ConfirmButton" Click="ConfirmButton_Click" Content="Apply change" Grid.ColumnSpan="2" Height="22" Margin="0,0,-0.4,-0.4" VerticalAlignment="Top" />
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="500" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="0 10 0 0" Text="Enter the mutation rate (0.1-1), crossover rate (0.1-1) and random selection portion (0-0.9)"/>
+                <TextBox Grid.Column="1" x:Name="MutationRate" Margin="0 10 10 0" Padding="2"/>
+                <TextBox Grid.Column="2" x:Name="CrossoverRate" Margin="0 10 10 0" Padding="2"/>
+                <TextBox Grid.Column="3" x:Name="RandomGeneration" Margin="0 10 10 0" Padding="2"/>
+                <Button Grid.Column="4" x:Name="AddButton" Click="AddButton_Click" Margin="0 10 10 0" Content="Apply changes" />
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200" />
+                    <ColumnDefinition Width="200" />
+                    <ColumnDefinition Width="200" />
+                    <ColumnDefinition Width="200" />
+                    <ColumnDefinition Width="200" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="0 10 10 0" Text="Press to create next generation"/>
+                <Button Grid.Column="1" x:Name="NextButton" Click="NextButton_Click" Margin="0 10 10 10" Content="Next generation" />
+                <Button Grid.Column="2" x:Name="QuickGenButton" Click="QuickGenButton_Click" Margin="0 10 10 10" Content="Next 10 generations" />
+                <Button Grid.Column="3" x:Name="Skip100Button" Click="Skip100Button_Click" Margin="0 10 10 10" Content="Next 100 generations" />
+                <Button Grid.Column="4" x:Name="PerfectButton" Click="PerfectButton_Click" Margin="0 10 10 10" Content="Run until suitable solution" />
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200" />
+                    <ColumnDefinition Width="200" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="0 0 10 10" Text="Press to restart the algorithm"/>
+                <Button Grid.Column="1" x:Name="RestartButton" Click="RestartButton_Click" Margin="0 0 0 10" Content="Restart" />
+            </Grid>
+
+
+            <helix:HelixViewport3D x:Name="viewPort3d" Margin="0,0,-0.2,0"
+
+                 Visibility="Visible" IsHeadLightEnabled="False" Height="601" >
+
+                <helix:DefaultLights/>
+                <ModelVisual3D x:Name="load"/>
+
+            </helix:HelixViewport3D>
+        </StackPanel>
+    </Border>
+</Window>

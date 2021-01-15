@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dga v3 wpf", "2dga v3 wpf\2dga v3 wpf.csproj", "{FE6925A7-B075-41B4-B5AC-685B2CE5559F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest2", "UnitTest2\UnitTest2.csproj", "{3A59AAA5-2F89-43D8-B2D3-929B92042120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6925A7-B075-41B4-B5AC-685B2CE5559F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6925A7-B075-41B4-B5AC-685B2CE5559F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6925A7-B075-41B4-B5AC-685B2CE5559F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6925A7-B075-41B4-B5AC-685B2CE5559F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A59AAA5-2F89-43D8-B2D3-929B92042120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A59AAA5-2F89-43D8-B2D3-929B92042120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A59AAA5-2F89-43D8-B2D3-929B92042120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A59AAA5-2F89-43D8-B2D3-929B92042120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA762165-F936-4CAE-9F73-414E1DC3B92E}
+	EndGlobalSection
+EndGlobal
