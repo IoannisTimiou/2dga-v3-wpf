@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//class for the package input of the algorithm
 namespace _2dga_v3_wpf
 {
     public class Package
